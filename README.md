@@ -1,0 +1,1 @@
+# verificacacao_de_spam
